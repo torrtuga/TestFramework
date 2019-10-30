@@ -1,6 +1,6 @@
  
 {
-  "name": "torrtuga/testframework",
+  "name": "TestFramework",
   "type": "magento-module",
   "license":"OSL-3.0",
   "description":"A simple test framework module to develop integration and unit tests on Magento 1"
